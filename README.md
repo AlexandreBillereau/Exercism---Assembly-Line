@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Assembly Line
 
 Welcome to Assembly Line on Exercism's Rust Track.
